@@ -216,15 +216,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7708d606d16e7df4bb5fc68fc20ea46a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 34.402557
+      value: -59.2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7708d606d16e7df4bb5fc68fc20ea46a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -9.73597
+      value: 11.9
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7708d606d16e7df4bb5fc68fc20ea46a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.51859283
+      value: 21.2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7708d606d16e7df4bb5fc68fc20ea46a, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1145,7 +1145,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54e3b8e2bf9a71943ae27e8652281127, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  destroyedVFX: {fileID: 1997006057055266475, guid: 86d63aae02e0da74bbb2600ad85b8d6a, type: 3}
+  destroyedVFX: {fileID: 810915267059452410, guid: 30ae1cd93d73bd24ea4d83510752cf1a, type: 3}
 --- !u!65 &893459456
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1424,6 +1424,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fb13c738496d2a4bbedf6385603668a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  destroyedVFX: {fileID: 3059765480025184750, guid: c1d446b888f2fb442ad9d980a237b691, type: 3}
 --- !u!1 &1132083181 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 7708d606d16e7df4bb5fc68fc20ea46a, type: 3}
@@ -1441,7 +1442,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54e3b8e2bf9a71943ae27e8652281127, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  destroyedVFX: {fileID: 1997006057055266475, guid: 86d63aae02e0da74bbb2600ad85b8d6a, type: 3}
+  destroyedVFX: {fileID: 810915267059452410, guid: 30ae1cd93d73bd24ea4d83510752cf1a, type: 3}
 --- !u!65 &1132083183
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1490,15 +1491,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7708d606d16e7df4bb5fc68fc20ea46a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 34.402557
+      value: 3.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7708d606d16e7df4bb5fc68fc20ea46a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 18.144032
+      value: 0.6
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7708d606d16e7df4bb5fc68fc20ea46a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.51859283
+      value: 40.2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7708d606d16e7df4bb5fc68fc20ea46a, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1595,7 +1596,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54e3b8e2bf9a71943ae27e8652281127, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  destroyedVFX: {fileID: 1997006057055266475, guid: 86d63aae02e0da74bbb2600ad85b8d6a, type: 3}
+  destroyedVFX: {fileID: 810915267059452410, guid: 30ae1cd93d73bd24ea4d83510752cf1a, type: 3}
 --- !u!65 &1482921180
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1639,7 +1640,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54e3b8e2bf9a71943ae27e8652281127, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  destroyedVFX: {fileID: 1997006057055266475, guid: 86d63aae02e0da74bbb2600ad85b8d6a, type: 3}
+  destroyedVFX: {fileID: 810915267059452410, guid: 30ae1cd93d73bd24ea4d83510752cf1a, type: 3}
 --- !u!65 &1489903210
 BoxCollider:
   m_ObjectHideFlags: 0
